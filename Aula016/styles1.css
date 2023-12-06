@@ -1,0 +1,18 @@
+li{
+    border-top:1px color: black;
+    border-left:2px color: orange;
+    border-right:1px color:black;
+    border-bottom:1px color: black;
+    padding: 5px;
+    width: 120px;
+    font-family: Roboto; 
+
+a{
+    color: orange;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+body {
+    background-color: black;

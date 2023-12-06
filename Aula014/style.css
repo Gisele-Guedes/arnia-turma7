@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titulo {
+    color: #3a3a4d;
+    margin-left: 20px;
+    font-size: 18px;
+    margin: 28px;
+}
+
+table{
+    width: 80em;
+    height: 20em;
+    margin-left: 15px;
+    border-collapse: collapse;
+    
+}
+
+.cabecalho>tr:first-child{
+    background-color: #0ca2ed;
+    height: 3em;
+    color: white;
+}
+
+td{
+   text-align: center; 
+   
+}
+
+
+
+tr:nth-child(even){
+    background-color: #f5f5f5;
+}
+
+tr:nth-child(odd){
+    background-color: #fcfcfc;
+}
+
+.primeiro>td:nth-child(6){
+    background-color: #c7ecd4; color: #00c247;
+}
+
+.segundo>td:nth-child(6){
+    background-color: #c7ecd4; color: #00c247;
+}
+
+.terceiro>td:nth-child(6){
+    background-color: #fdcdcd; color: #ff0000;
+}
+
+.quarto>td:nth-child(6){
+    background-color: #c7ecd4; color: #00c247;
+}
+
+.quinto>td:nth-child(6){
+    background-color: #c7ecd4; color: #00c247;
+}

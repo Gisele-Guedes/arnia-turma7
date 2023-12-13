@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #808080;
+    color: #a10303;
+}
+.cliente, .proprietario {
+    width: 100px;
+    height: 100px;
+}
+h1{
+    font-weight: bold;
+}

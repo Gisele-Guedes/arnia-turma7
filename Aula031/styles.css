@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: sans-serif;
+    color: #2b2b2a;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+body.estilo-carregado {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1.estilo-carregado {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p.estilo-carregado {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+div {
+    display: flex;
+    gap: 10px;
+}

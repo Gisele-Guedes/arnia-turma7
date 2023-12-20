@@ -1,5 +1,5 @@
 const io = require("../io/io")
-/*
+/* decisão
 if (expressão lógica){
 comando1
 comando2

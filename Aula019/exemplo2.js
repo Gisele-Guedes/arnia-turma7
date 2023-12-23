@@ -7,6 +7,6 @@ if (pais == "Brasil"){
     io.write("Gigante pela própria natureza!")
 }
 else{
-    io.write("Páis estranhgeiro!")
+    io.write("Páis estrangeiro!")
 }
 pais++
